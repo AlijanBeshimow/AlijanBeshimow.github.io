@@ -24,4 +24,4 @@ function SimpleEvent(props) {
 
 const main = ReactDOM.createRoot(document.getElementById("main"));
 
-main.render(<SimpleEvent name="Alex" num1="101" num2 = "102" />);
+main.render(<SimpleEvent name="Alex" num1="101" num2 = "10" />);
